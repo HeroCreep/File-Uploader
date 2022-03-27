@@ -1,0 +1,32 @@
+form {
+    width: 30%;
+    margin: 100px auto;
+    padding: 30px;
+    border: 1px solid #555;
+  }
+  input {
+    width: 100%;
+    border: 0px;
+    display: block;
+    padding: 10px;
+  }
+  button {
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
